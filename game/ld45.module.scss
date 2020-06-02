@@ -1,0 +1,35 @@
+.layout {
+  display: flex;
+}
+
+.tabs {
+  display: flex;
+}
+.tabLink {
+  padding: 10px;
+  cursor: pointer;
+
+  &.selected {
+    font-weight: bold;
+  }
+}
+
+.stats {
+  width: 200px;
+  border: solid 1px #ccc;
+  border-radius: 3px;
+  margin-right: 10px;
+  padding: 10px;
+}
+
+.area {
+  margin-top: 10px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  div {
+    margin-left: 5px;
+  }
+}
