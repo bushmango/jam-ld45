@@ -26,7 +26,7 @@
     "fast-random": "^2.0.4",
     "isomorphic-unfetch": "3.0.0",
     "lodash": "^4.17.15",
-    "luxon": "^1.24.1",
+    "luxon": "^1.28.1",
     "midboss": "^0.22.0",
     "nanoid": "^3.1.9",
     "next": "^9.3.5",
